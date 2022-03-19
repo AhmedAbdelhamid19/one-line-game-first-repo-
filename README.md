@@ -1,2 +1,2 @@
-# one-line-game-first-repo-
+# one-line-game
 the first game , i made
